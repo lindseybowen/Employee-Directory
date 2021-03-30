@@ -11,8 +11,8 @@ function Table(props) {
       <table className="table">
         <thead>
           <tr>
-            <th scope="col">First</th>
-            <th scope="col" onClick={props.handleSort}>Last</th>
+            <th scope="col">Last</th>
+            <th scope="col" onClick={props.handleSort}>First</th>
             <th scope="col">Email</th>
             <th scope="col">Phone</th>
             <th scope="col">Picture</th>
@@ -27,7 +27,7 @@ function Table(props) {
                     <td>{person.name.last}</td>
                     <td>{person.email}</td>
                     <td>{person.phone}</td> 
-                    <td> <img  src= {person.picture.medium}  /> </td>
+                    <td> <img  src= {person.picture.medium} alt=""/> </td>
                   </tr>
                  )
             })   :  <tr>
@@ -42,7 +42,9 @@ function Table(props) {
         </tbody>
       </table>
     </>
+    
   );
+ 
 }
 
 export default Table;

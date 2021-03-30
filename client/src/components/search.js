@@ -5,11 +5,10 @@ function Search(props) {
     <>
       <div className="input-group flex-nowrap">
         <input
-          type="text"
-          className="form-control"
-          placeholder="Username"
-          aria-label="Username"
-          aria-describedby="addon-wrapping"
+          type="search"
+          className="search"
+          placeholder={props.placeholder}
+          onChange = {props.handleChange}
         />
       </div>
     </>
