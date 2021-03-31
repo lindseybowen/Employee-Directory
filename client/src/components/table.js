@@ -8,7 +8,8 @@ function Table(props) {
     <>
       {/* <h1>  {props.peopleApiList.length > 0  ?  props.peopleApiList[0].name.first: "" }  </h1>
         <img src={props.peopleApiList.length > 0  ?  props.peopleApiList[0].picture.thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1200px-No_image_3x4.svg.png"} /> */}
-      <table className="table">
+    <div class="container">
+    <table className="table">
         <thead>
           <tr>
             <th scope="col">Last</th>
@@ -41,8 +42,9 @@ function Table(props) {
          
         </tbody>
       </table>
+      </div>
     </>
-    
+     
   );
  
 }
