@@ -16,6 +16,7 @@ function Table(props) {
             <th scope="col" onClick={props.handleSort}>First</th>
             <th scope="col">Email</th>
             <th scope="col">Phone</th>
+            <th scope="col">Location</th>
             <th scope="col">Picture</th>
           </tr>
         </thead>
@@ -28,6 +29,7 @@ function Table(props) {
                     <td>{person.name.last}</td>
                     <td>{person.email}</td>
                     <td>{person.phone}</td> 
+                    <td>{person.location.state}</td> 
                     <td> <img  src= {person.picture.medium} alt=""/> </td>
                   </tr>
                  )
