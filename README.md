@@ -13,7 +13,7 @@ Employee database that allows coworkers to view contact info for the entire offi
 
 ## URL
 * [Click here to see the live site!](https://lindseybowen.github.io/Employee-Directory/)
-* ![Screenshot Deployed Website](Employee.png)
+* ![Screenshot Deployed Website](https://drive.google.com/file/d/1ClZwXiwm2agaSQioe76FmdSOrsAWstkZ/view?usp=sharing)
 * [Click here to see video demonstration!](https://drive.google.com/file/d/1wCAE0NEbxVITdkElvnfBx_ZUcsOeOgYC/view?usp=sharing)
 ## Installation
 1. Download or clone repository 
