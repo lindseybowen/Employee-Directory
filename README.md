@@ -12,7 +12,7 @@
 Employee database that allows coworkers to view contact info for the entire office. You can search for employees by name.
 
 ## URL
-* [Click here to see the live site!]()
+* [Click here to see the live site!](https://lindseybowen.github.io/Employee-Directory/)
 * ![Screenshot Deployed Website](Employee.png)
 * [Click here to see video demonstration!](https://drive.google.com/file/d/1wCAE0NEbxVITdkElvnfBx_ZUcsOeOgYC/view?usp=sharing)
 ## Installation
