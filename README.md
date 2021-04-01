@@ -23,5 +23,5 @@ Employee database that allows coworkers to view contact info for the entire offi
 Open source, feel free to modify!
 
 ## Questions
-* Github: https://github.com/lindseybowe
+* Github: https://github.com/lindseybowen
 
