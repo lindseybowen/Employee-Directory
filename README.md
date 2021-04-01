@@ -9,7 +9,7 @@
 * [Questions](#questions)
 
 ## Description 
-Employee database that allows coworkers to view contact info for the entire office. You can search for employees by name.
+Employee database that allows coworkers to view contact info for the entire staff. You can search for employees by name.
 
 ## URL
 [Click here to see the live site!]()
